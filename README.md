@@ -1,7 +1,7 @@
 mustached-dangerzone
 ====================
 
-Examples from 
+Examples From 
 Programming Collective Intelligence
 Author: Toby Segaran
 Publisher: O'Reilly Media; 1st edition (August 23, 2007)
